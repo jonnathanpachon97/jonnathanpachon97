@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hola, Soy Jonnathan Pachon 👾
 
+Soy Ingeniero Mecatrónico con 3 años de experiencia en desarrollo de software y automatización de procesos. Apasionado por el mundo de la ciencia y tecnología.
 <!--
 **jonnathanpachon97/jonnathanpachon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
